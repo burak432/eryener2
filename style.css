@@ -40,3 +40,7 @@
  .form {
      max-width: 25rem;
  }
+ 
+ .hizmetlist>li {
+     margin-block: 1em;
+ }
