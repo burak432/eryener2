@@ -1,46 +1,85 @@
- .navigasyon {
-     text-transform: uppercase;
-     font-weight: 500;
-     font-family: 'Rubik', sans-serif;
- }
- 
- .rubik {
-     font-family: 'Rubik', sans-serif;
- }
- 
- .logoyani {
-     font-family: 'Rubik', sans-serif;
-     font-weight: 300;
-     font-size: 1.5rem;
- }
- 
- .logoyazi {
-     font-size: 2rem;
- }
- 
- .giris1 {
-     background-image: url(trade_bg.jpg);
-     background-repeat: no-repeat;
-     background-size: cover;
-     height: 100vh;
- }
- 
- i {
-     font-size: 2rem;
- }
- 
- section.giris2>.row>.card {
-     width: 15rem;
- }
- 
- html {
-     scroll-padding-top: 70px;
- }
- 
- .form {
-     max-width: 25rem;
- }
- 
- .hizmetlist>li {
-     margin-block: 1em;
- }
+.dark1 {
+    background-color: #276678;
+    color: #D3E0EA;
+}
+
+.dark2 {
+    background-color: #1687A7;
+}
+
+.light1 {
+    background-color: #F6F5F5;
+}
+
+.light2 {
+    background-color: #D3E0EA;
+}
+
+.navigasyon {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+}
+
+.rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+.logoyani {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.logoyazi {
+    font-size: 2rem;
+}
+
+.giris1 {
+    background-image: url(trade_bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.intro {
+    color: #fff;
+    height: 100vh;
+}
+
+.yazilar {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+i {
+    font-size: 2rem;
+}
+
+.giris2 i {
+    font-size: 4rem;
+}
+
+section.giris2>.row>.card {
+    width: 15rem;
+}
+
+html {
+    scroll-padding-top: 70px;
+}
+
+.form {
+    max-width: 25rem;
+}
+
+.hizmetlist>li {
+    margin-block: 1em;
+}
+
+.siyah {
+    background-color: black;
+}
+
+textarea {
+    resize: none;
+  }
