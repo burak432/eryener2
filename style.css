@@ -72,9 +72,11 @@ html {
     max-width: 25rem;
 }
 
+
 .hizmetlist>li {
-    margin-block: 1em;
+    margin-block: 1.4em;
 }
+
 
 .siyah {
     background-color: black;
